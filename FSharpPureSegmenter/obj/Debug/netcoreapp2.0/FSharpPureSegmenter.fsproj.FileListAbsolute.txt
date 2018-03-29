@@ -1,0 +1,15 @@
+C:\Users\kellyw\source\repos\SegmentationCore\FSharpPureSegmenter\bin\Debug\netcoreapp2.0\FSharpPureSegmenter.deps.json
+C:\Users\kellyw\source\repos\SegmentationCore\FSharpPureSegmenter\bin\Debug\netcoreapp2.0\FSharpPureSegmenter.runtimeconfig.json
+C:\Users\kellyw\source\repos\SegmentationCore\FSharpPureSegmenter\bin\Debug\netcoreapp2.0\FSharpPureSegmenter.runtimeconfig.dev.json
+C:\Users\kellyw\source\repos\SegmentationCore\FSharpPureSegmenter\bin\Debug\netcoreapp2.0\FSharpPureSegmenter.dll
+C:\Users\kellyw\source\repos\SegmentationCore\FSharpPureSegmenter\bin\Debug\netcoreapp2.0\FSharpPureSegmenter.pdb
+C:\Users\kellyw\source\repos\SegmentationCore\FSharpPureSegmenter\obj\Debug\netcoreapp2.0\FSharpPureSegmenter.fsprojResolveAssemblyReference.cache
+C:\Users\kellyw\source\repos\SegmentationCore\FSharpPureSegmenter\obj\Debug\netcoreapp2.0\FSharpPureSegmenter.dll
+C:\Users\kellyw\source\repos\SegmentationCore\FSharpPureSegmenter\obj\Debug\netcoreapp2.0\FSharpPureSegmenter.pdb
+C:\Users\kellyw\Dropbox\SegmentationCore\SegmentationCore\FSharpPureSegmenter\bin\Debug\netcoreapp2.0\FSharpPureSegmenter.deps.json
+C:\Users\kellyw\Dropbox\SegmentationCore\SegmentationCore\FSharpPureSegmenter\bin\Debug\netcoreapp2.0\FSharpPureSegmenter.runtimeconfig.json
+C:\Users\kellyw\Dropbox\SegmentationCore\SegmentationCore\FSharpPureSegmenter\bin\Debug\netcoreapp2.0\FSharpPureSegmenter.runtimeconfig.dev.json
+C:\Users\kellyw\Dropbox\SegmentationCore\SegmentationCore\FSharpPureSegmenter\bin\Debug\netcoreapp2.0\FSharpPureSegmenter.dll
+C:\Users\kellyw\Dropbox\SegmentationCore\SegmentationCore\FSharpPureSegmenter\bin\Debug\netcoreapp2.0\FSharpPureSegmenter.pdb
+C:\Users\kellyw\Dropbox\SegmentationCore\SegmentationCore\FSharpPureSegmenter\obj\Debug\netcoreapp2.0\FSharpPureSegmenter.dll
+C:\Users\kellyw\Dropbox\SegmentationCore\SegmentationCore\FSharpPureSegmenter\obj\Debug\netcoreapp2.0\FSharpPureSegmenter.pdb
