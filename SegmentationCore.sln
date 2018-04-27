@@ -7,9 +7,14 @@ Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "FSharpPureSegmenter", "FSha
 EndProject
 Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "FSharpPureSegmenter.UnitTests", "FSharpPureSegmenter.UnitTests\FSharpPureSegmenter.UnitTests.fsproj", "{C93E628F-FF1B-4F62-B942-5372A02D2ECE}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FSharpImpureSegmenter", "FSharpImpureSegmenter\FSharpImpureSegmenter.fsproj", "{7A1807BE-B43E-4BB4-AE05-81DDA1790B01}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "FSharpImpureSegmenter", "FSharpImpureSegmenter\FSharpImpureSegmenter.fsproj", "{7A1807BE-B43E-4BB4-AE05-81DDA1790B01}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpSegmenter", "CSharpSegmenter\CSharpSegmenter.csproj", "{100E445D-2CEB-46C3-A054-A7B82ABDE274}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A12AAA06-7908-47BF-B40F-49B776A52E30}"
+	ProjectSection(SolutionItems) = preProject
+		debug.fsx = debug.fsx
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

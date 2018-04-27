@@ -13,3 +13,11 @@ C:\Users\kellyw\Dropbox\SegmentationCore\SegmentationCore\FSharpPureSegmenter\bi
 C:\Users\kellyw\Dropbox\SegmentationCore\SegmentationCore\FSharpPureSegmenter\obj\Release\netcoreapp2.0\FSharpPureSegmenter.dll
 C:\Users\kellyw\Dropbox\SegmentationCore\SegmentationCore\FSharpPureSegmenter\obj\Release\netcoreapp2.0\FSharpPureSegmenter.pdb
 C:\Users\kellyw\Dropbox\SegmentationCore\SegmentationCore\FSharpPureSegmenter\obj\Release\netcoreapp2.0\FSharpPureSegmenter.fsprojResolveAssemblyReference.cache
+C:\Users\Connor\OneDrive\Repositories\CAB402-Assignment-1\FSharpPureSegmenter\bin\Release\netcoreapp2.0\FSharpPureSegmenter.deps.json
+C:\Users\Connor\OneDrive\Repositories\CAB402-Assignment-1\FSharpPureSegmenter\bin\Release\netcoreapp2.0\FSharpPureSegmenter.runtimeconfig.json
+C:\Users\Connor\OneDrive\Repositories\CAB402-Assignment-1\FSharpPureSegmenter\bin\Release\netcoreapp2.0\FSharpPureSegmenter.runtimeconfig.dev.json
+C:\Users\Connor\OneDrive\Repositories\CAB402-Assignment-1\FSharpPureSegmenter\bin\Release\netcoreapp2.0\FSharpPureSegmenter.dll
+C:\Users\Connor\OneDrive\Repositories\CAB402-Assignment-1\FSharpPureSegmenter\bin\Release\netcoreapp2.0\FSharpPureSegmenter.pdb
+C:\Users\Connor\OneDrive\Repositories\CAB402-Assignment-1\FSharpPureSegmenter\obj\Release\netcoreapp2.0\FSharpPureSegmenter.fsprojResolveAssemblyReference.cache
+C:\Users\Connor\OneDrive\Repositories\CAB402-Assignment-1\FSharpPureSegmenter\obj\Release\netcoreapp2.0\FSharpPureSegmenter.dll
+C:\Users\Connor\OneDrive\Repositories\CAB402-Assignment-1\FSharpPureSegmenter\obj\Release\netcoreapp2.0\FSharpPureSegmenter.pdb

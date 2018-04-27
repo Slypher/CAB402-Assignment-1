@@ -5,7 +5,15 @@
     <TargetFramework>netcoreapp2.0</TargetFramework>
   </PropertyGroup>
 
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <Optimize>false</Optimize>
+  </PropertyGroup>
+
   <ItemGroup>
+    <Compile Include="TiffModule.fs" />
+    <Compile Include="SegmentModule.fs" />
+    <Compile Include="DitherModule.fs" />
+    <Compile Include="SegmentationModule.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
 
